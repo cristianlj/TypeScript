@@ -1,5 +1,5 @@
 abstract class View<T> {
-
+//Coments
     protected _elemento: JQuery;
 
     constructor(seletor: string) {
